@@ -4,6 +4,14 @@ The backend and API of WeLoveMovies executes the storage and delivery of WeLoveM
 ## Links
 - [WeLoveMovies Demo](Coming Soon)
 
+## Technology
+Built with:
+- Node.js
+  - Express server framework
+  - CORS package
+- PostgreSQL database
+  - Knex.js for query building
+
 ## Installation
 1. Fork and clone this repository.
 2. Run `cp ./.env.sample ./.env`.
