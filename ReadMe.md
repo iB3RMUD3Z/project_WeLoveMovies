@@ -2,7 +2,7 @@
 The backend and API of WeLoveMovies executes the storage and delivery of WeLoveMovies' movies, theaters, and reviews data. 
 
 ## Links
-- [WeLoveMovies Demo](Coming Soon)
+- [WeLoveMovies Demo] https://welovemovi3s.herokuapp.com/
 
 ## Technology
 Built with:
